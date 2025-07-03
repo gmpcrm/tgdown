@@ -91,7 +91,7 @@ python downloader.py --source_dir source/ChatExport_2025-06-08 --download
 
 ### Автоматическая установка
 ```bash
-git clone https://github.com/yourusername/tgdown.git
+git clone https://github.com/gmpcrm/tgdown.git
 cd tgdown
 pip install -r requirements.txt
 ```
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 ### Ручная установка
 1. **Скачайте проект**
    ```bash
-   git clone https://github.com/yourusername/tgdown.git
+   git clone https://github.com/gmpcrm/tgdown.git
    cd tgdown
    ```
 
@@ -276,7 +276,7 @@ python downloader.py --help
 Мы приветствуем ваш вклад в развитие проекта! 
 
 ### 🐛 Сообщить об ошибке
-1. Проверьте [Issues](https://github.com/yourusername/tgdown/issues)
+1. Проверьте [Issues](https://github.com/gmpcrm/tgdown/issues)
 2. Создайте новый Issue с подробным описанием
 3. Приложите логи и примеры
 
@@ -297,6 +297,6 @@ python downloader.py --help
 
 **⭐ Если проект оказался полезным, поставьте звезду!**
 
-[![Stargazers](https://img.shields.io/github/stars/yourusername/tgdown?style=social)](https://github.com/yourusername/tgdown/stargazers)
+[![Stargazers](https://img.shields.io/github/stars/gmpcrm/tgdown?style=social)](https://github.com/gmpcrm/tgdown/stargazers)
 
 </div>
