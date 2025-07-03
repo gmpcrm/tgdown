@@ -29,7 +29,7 @@
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/yourusername/tgdown.git
+git clone https://github.com/gmpcrm/tgdown.git
 cd tgdown
 
 # 2. Установите зависимости
